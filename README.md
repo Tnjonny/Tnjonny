@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tnjonny
 - 👀 I’m interested in Front End Development 
 - 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Tnjonny/Tnjonny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

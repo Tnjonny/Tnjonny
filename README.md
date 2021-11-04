@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonathan
 - 👀 I’m interested in all in things Front End
 - 🌱 I’m currently learning React Js
-
+- Looking to land a junoir role 
 
 <!---
 Tnjonny/Tnjonny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m interested in all in things Front End
+- 👀 I’m interested in all in things software related
 - 🌱 I’m currently learning React Js
 - :) Looking to land a Junoir role 
 
